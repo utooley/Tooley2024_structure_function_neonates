@@ -14,4 +14,4 @@ Final paper link here.
 
 *MATLAB version 2021b* and *R* version 4.1.2 were used to conduct analyses in this paper. Preprocessing was performed with [4dfp](https://4dfp.readthedocs.io/en/latest/).
 
-Spin tests from Váša et al. (2017) were used, available [here](https://github.com/frantisekvasa/rotate_parcellation).
+Spin tests from Váša et al. (2017) were used, available [here](https://github.com/frantisekvasa/rotate_parcellation), as well as tests from the *BRAINsmash* package, available [here](https://brainsmash.readthedocs.io/en/latest/index.html).
